@@ -1,0 +1,26 @@
+{
+  "name": "inflate-cli",
+  "version": "1.0.0",
+  "description": "A CLI utility for inflating streams compressed with `deflate` algorithm",
+  "bin": {
+    "inflate": "inflate.js"
+  },
+  "keywords": [
+    "inflate",
+    "cli"
+  ],
+  "author": "William Hilton <wmhilton@gmail.com>",
+  "license": "MIT",
+  "main": "inflate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmhilton/inflate-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmhilton/inflate-cli/issues"
+  },
+  "homepage": "https://github.com/wmhilton/inflate-cli#readme"
+}
